@@ -1,0 +1,10 @@
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\bin\Debug\netcoreapp3.0\VIZRT2.exe
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\bin\Debug\netcoreapp3.0\VIZRT2.deps.json
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\bin\Debug\netcoreapp3.0\VIZRT2.runtimeconfig.json
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\bin\Debug\netcoreapp3.0\VIZRT2.runtimeconfig.dev.json
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\bin\Debug\netcoreapp3.0\VIZRT2.dll
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\bin\Debug\netcoreapp3.0\VIZRT2.pdb
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\obj\Debug\netcoreapp3.0\VIZRT2.AssemblyInfoInputs.cache
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\obj\Debug\netcoreapp3.0\VIZRT2.AssemblyInfo.cs
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\obj\Debug\netcoreapp3.0\VIZRT2.dll
+C:\Users\idado\source\repos\VIZRT2\VIZRT2\obj\Debug\netcoreapp3.0\VIZRT2.pdb
